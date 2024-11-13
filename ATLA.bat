@@ -148,7 +148,7 @@ if not "!version!"=="!latest_version!" (
 )
 
 REM Exe Launch Location
-set "EXE_LOCATION=!DOWNLOAD_LOCATION!\ATLA\Windows\ATLAProject.exe"
+set "EXE_LOCATION=!DOWNLOAD_LOCATION!\ATLA\Windows\ATLA.exe"
 
 REM Launching exe File
 start "" "%EXE_LOCATION%"
